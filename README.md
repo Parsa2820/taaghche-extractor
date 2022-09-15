@@ -8,3 +8,5 @@ Extract book from taaghche.com
 - Open inspect by pressing `F12` key on the book page. Then go to console tab.
 - Copy and paste `canvas2png.js` file content into console.
 - Wait for the zip file download prompt.
+
+![Usage](./usage.gif)
